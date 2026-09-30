@@ -1,0 +1,50 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #f5f5f5;
+}
+
+h2 {
+    color: #333;
+    margin-top: 25px;
+}
+
+button {
+    background: #2371d6;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #555;
+}
+
+#timer {
+    color: #007bff;
+}
+
+#user-display {
+    background: white;
+    padding: 10px;
+    border-radius: 6px;
+}
+
+#list-container {
+    background: white;
+    border-radius: 8px;
+}
+
+li {
+    margin: 10px 0;
+}
+
+.delete-btn {
+    margin-left: 10px;
+}
